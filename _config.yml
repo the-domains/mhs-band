@@ -1,0 +1,28 @@
+name: MHS Band
+favicon: null
+layout_spectrum: 0.9537227905821055
+typography_spectrum: 0.6973084723576903
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5118361571803689
+  lightness: 0.4067171858623624
+  saturation: 0.08179440977983177
+  rhythmicContrast: 0.7334865105804056
+purpose: []
